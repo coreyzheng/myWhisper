@@ -17,11 +17,7 @@ This is a simple test of the OpenAI - Whisper
 https://github.com/openai/whisper
 
 # Model Parameters
-# What are the model parameters?
-A model parameter is a configuration variable that is internal to the model and whose value can be estimated from data. 
-They are required by the model when making predictions. They values define the skill of the model on your problem. They are estimated or learned from data.
-
-# What is a Model Parameter?
+# What is a model parameter?
 A model parameter is a configuration variable that is internal to the model and whose value can be estimated from data.
 
 They are required by the model when making predictions.
