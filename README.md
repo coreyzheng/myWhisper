@@ -16,6 +16,11 @@ This is a simple test of the OpenAI - Whisper
 # Git
 https://github.com/openai/whisper
 
+https://github.com/MahmoudAshraf97/whisper-diarization
+
+# Reference
+https://www.youtube.com/watch?v=8zPmnUoLcRE
+
 # Model Parameters
 In summary, model parameters are estimated from data automatically and model hyperparameters are set manually and are used in processes to help estimate model parameters.
 
