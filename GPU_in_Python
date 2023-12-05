@@ -1,0 +1,43 @@
+Learn to use a CUDA GPU to dramatically speed up code in Python
+
+https://www.youtube.com/watch?v=3dHJ00mAQAY
+
+
+00:00 Start of Video
+00:16 End of Moore's Law
+01: 15 What is a TPU and ASIC
+02:25 How a GPU works
+03:05 Enabling GPU in Colab Notebook
+04:16 Using Python Numba
+05:40 Building Mandlebrots with and without GPU and Numba
+07:49 CUDA Vectorize Functions
+08:27 Copy Data to GPU Memory
+
+Tutorial:  https://noahgift.github.io/cloud-data...
+
+Book:  https://paiml.com/docs/home/books/clo... If you enjoyed this video, here are additional resources to look at:
+
+Coursera + Duke Specialization: Building Cloud Computing Solutions at Scale Specialization: https://www.coursera.org/specializati...
+
+O'Reilly Book:  Practical MLOps: https://www.amazon.com/Practical-MLOp...
+
+O'Reilly Book:  Python for DevOps: https://www.amazon.com/gp/product/B08...
+
+Pragmatic AI:  An Introduction to Cloud-based Machine Learning: https://www.amazon.com/gp/product/B07...
+
+Pragmatic AI Labs Book: Python Command-Line Tools: https://www.amazon.com/gp/product/B08...
+
+Pragmatic AI Labs Book: Cloud Computing for Data Analysis : https://www.amazon.com/gp/product/B09...
+
+
+Pragmatic AI Book:  Minimal Python: https://www.amazon.com/gp/product/B08...
+
+Pragmatic AI Book:  Testing in Python: https://www.amazon.com/gp/product/B08...
+
+Subscribe to Pragmatic AI Labs YouTube Channel:   
+
+ / @pragmaticai  
+
+View content on noahgift.com: https://noahgift.com/
+
+View content on Pragmatic AI Labs Website: https://paiml.com/
